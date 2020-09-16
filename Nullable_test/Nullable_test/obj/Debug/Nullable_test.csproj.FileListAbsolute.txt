@@ -1,0 +1,7 @@
+C:\Users\master\source\repos\Nullable_test\Nullable_test\bin\Debug\Nullable_test.exe.config
+C:\Users\master\source\repos\Nullable_test\Nullable_test\bin\Debug\Nullable_test.exe
+C:\Users\master\source\repos\Nullable_test\Nullable_test\bin\Debug\Nullable_test.pdb
+C:\Users\master\source\repos\Nullable_test\Nullable_test\obj\Debug\Nullable_test.csprojAssemblyReference.cache
+C:\Users\master\source\repos\Nullable_test\Nullable_test\obj\Debug\Nullable_test.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Nullable_test\Nullable_test\obj\Debug\Nullable_test.exe
+C:\Users\master\source\repos\Nullable_test\Nullable_test\obj\Debug\Nullable_test.pdb

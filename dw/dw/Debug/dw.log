@@ -1,0 +1,9 @@
+﻿  dw.cpp
+c:\users\master\source\repos\dw\dw\dw.cpp(44): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\master\source\repos\dw\dw\dw.cpp(57): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\master\source\repos\dw\dw\dw.cpp(68): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\master\source\repos\dw\dw\dw.cpp(79): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\master\source\repos\dw\dw\dw.cpp(85): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\master\source\repos\dw\dw\dw.cpp(95): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\master\source\repos\dw\dw\dw.cpp(103): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  dw.vcxproj -> C:\Users\master\source\repos\dw\Debug\dw.exe

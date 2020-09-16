@@ -1,0 +1,7 @@
+C:\Users\master\source\repos\triant_operator\triant_operator\bin\Debug\triant_operator.exe.config
+C:\Users\master\source\repos\triant_operator\triant_operator\bin\Debug\triant_operator.exe
+C:\Users\master\source\repos\triant_operator\triant_operator\bin\Debug\triant_operator.pdb
+C:\Users\master\source\repos\triant_operator\triant_operator\obj\Debug\triant_operator.csprojAssemblyReference.cache
+C:\Users\master\source\repos\triant_operator\triant_operator\obj\Debug\triant_operator.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\triant_operator\triant_operator\obj\Debug\triant_operator.exe
+C:\Users\master\source\repos\triant_operator\triant_operator\obj\Debug\triant_operator.pdb

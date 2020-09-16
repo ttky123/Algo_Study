@@ -1,0 +1,7 @@
+C:\Users\master\source\repos\Var_test\Var_test\bin\Debug\Var_test.exe.config
+C:\Users\master\source\repos\Var_test\Var_test\bin\Debug\Var_test.exe
+C:\Users\master\source\repos\Var_test\Var_test\bin\Debug\Var_test.pdb
+C:\Users\master\source\repos\Var_test\Var_test\obj\Debug\Var_test.csprojAssemblyReference.cache
+C:\Users\master\source\repos\Var_test\Var_test\obj\Debug\Var_test.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Var_test\Var_test\obj\Debug\Var_test.exe
+C:\Users\master\source\repos\Var_test\Var_test\obj\Debug\Var_test.pdb

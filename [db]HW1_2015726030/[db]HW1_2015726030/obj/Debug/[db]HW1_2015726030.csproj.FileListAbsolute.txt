@@ -1,0 +1,11 @@
+C:\Users\master\source\repos\[db]HW1_2015726030\[db]HW1_2015726030\bin\Debug\sql_test.mdf
+C:\Users\master\source\repos\[db]HW1_2015726030\[db]HW1_2015726030\bin\Debug\sql_test_log.ldf
+C:\Users\master\source\repos\[db]HW1_2015726030\[db]HW1_2015726030\bin\Debug\[db]HW1_2015726030.exe.config
+C:\Users\master\source\repos\[db]HW1_2015726030\[db]HW1_2015726030\bin\Debug\[db]HW1_2015726030.exe
+C:\Users\master\source\repos\[db]HW1_2015726030\[db]HW1_2015726030\bin\Debug\[db]HW1_2015726030.pdb
+C:\Users\master\source\repos\[db]HW1_2015726030\[db]HW1_2015726030\obj\Debug\[db]HW1_2015726030.csprojAssemblyReference.cache
+C:\Users\master\source\repos\[db]HW1_2015726030\[db]HW1_2015726030\obj\Debug\_db_HW1_2015726030.Properties.Resources.resources
+C:\Users\master\source\repos\[db]HW1_2015726030\[db]HW1_2015726030\obj\Debug\[db]HW1_2015726030.csproj.GenerateResource.cache
+C:\Users\master\source\repos\[db]HW1_2015726030\[db]HW1_2015726030\obj\Debug\[db]HW1_2015726030.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\[db]HW1_2015726030\[db]HW1_2015726030\obj\Debug\[db]HW1_2015726030.exe
+C:\Users\master\source\repos\[db]HW1_2015726030\[db]HW1_2015726030\obj\Debug\[db]HW1_2015726030.pdb

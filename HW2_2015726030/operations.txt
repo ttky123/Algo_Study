@@ -1,0 +1,12 @@
+@
+abc
+bca
+cab
+#
+acb
+bac
+cba
+&
+aaa
+abc
+acb

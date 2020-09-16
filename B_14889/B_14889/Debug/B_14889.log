@@ -1,0 +1,4 @@
+﻿  B_14889.cpp
+c:\users\master\source\repos\b_14889\b_14889\b_14889.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\master\source\repos\b_14889\b_14889\b_14889.cpp(34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  B_14889.vcxproj -> C:\Users\master\source\repos\B_14889\Debug\B_14889.exe

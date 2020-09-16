@@ -1,0 +1,7 @@
+C:\Users\master\source\repos\Flag_Attribute_enum\Flag_Attribute_enum\bin\Debug\Flag_Attribute_enum.exe.config
+C:\Users\master\source\repos\Flag_Attribute_enum\Flag_Attribute_enum\bin\Debug\Flag_Attribute_enum.exe
+C:\Users\master\source\repos\Flag_Attribute_enum\Flag_Attribute_enum\bin\Debug\Flag_Attribute_enum.pdb
+C:\Users\master\source\repos\Flag_Attribute_enum\Flag_Attribute_enum\obj\Debug\Flag_Attribute_enum.csprojAssemblyReference.cache
+C:\Users\master\source\repos\Flag_Attribute_enum\Flag_Attribute_enum\obj\Debug\Flag_Attribute_enum.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Flag_Attribute_enum\Flag_Attribute_enum\obj\Debug\Flag_Attribute_enum.exe
+C:\Users\master\source\repos\Flag_Attribute_enum\Flag_Attribute_enum\obj\Debug\Flag_Attribute_enum.pdb

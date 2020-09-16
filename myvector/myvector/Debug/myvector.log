@@ -1,0 +1,3 @@
+﻿  myvector.cpp
+c:\users\master\source\repos\myvector\myvector\myvector.h(97): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+  myvector.vcxproj -> C:\Users\master\source\repos\myvector\Debug\myvector.exe
